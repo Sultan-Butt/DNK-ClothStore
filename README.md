@@ -1,5 +1,10 @@
 # DNK-ClothStore
 
+Name: Sultan Munawar     
+Roll No: 17581556-093
+Department: IT
+Section: B
+
 Step-1
 You have to DOWNLOAD this project (repository) with DOWNLOAD ZIP button. 
 { PATH= CODE -> DOWNLOAD ZIP }
