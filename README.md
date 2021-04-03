@@ -1,8 +1,8 @@
 # DNK-ClothStore
 
 Name: Sultan Munawar     
-Roll No: 17581556-093
-Department: IT
+Roll No: 17581556-093           
+Department: IT        
 Section: B
 
 Step-1
